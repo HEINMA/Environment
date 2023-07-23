@@ -34,3 +34,9 @@ https://mariadb.org/start-mariadb-in-k8s/
 
 
 
+## Start a container.
+
+
+![image info](./images/minikube-dashboard.png)
+
+
